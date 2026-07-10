@@ -88,7 +88,9 @@ I write practical Generative AI, ML, and MLOps content, from fundamentals to pro
 <a href="https://www.linkedin.com/in/shyam-sundar-domakonda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@domakondashyamsundar"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=domakondashyamsundar@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/domakondashyamsundar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  
 </a>
 <a href="https://orcid.org/0009-0008-6807-0159"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 
