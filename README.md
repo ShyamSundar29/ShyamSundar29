@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Shyam+Sundar+Domakonda;Senior+AI%2FML+Engineer;Building+Production+AI+with+LLMs%2C+RAG+%26+AI+Agents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Shyam+Sundar+Domakonda;Senior+AI%2FML+Engineer;Building+Production+AI+with+LLMs%2C+RAG+%26+AI+Agents" alt="Typing SVG" />
 
 **Senior AI/ML Engineer @ Experis | Ex-Walmart | AWS Certified ML Engineer**
 
@@ -87,10 +87,10 @@ I write practical Generative AI, ML, and MLOps content, from fundamentals to pro
 
 <a href="https://www.linkedin.com/in/shyam-sundar-domakonda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@domakondashyamsundar"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="mailto:domakondashyamsundar@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=domakondashyamsundar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/domakondashyamsundar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <a href="https://orcid.org/0009-0008-6807-0159"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-
-📧 domakondashyamsundar@gmail.com
 
 *Building AI systems that work in production, one pipeline at a time.* ⚡
 
