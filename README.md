@@ -36,7 +36,7 @@
 
 **Generative AI & LLM Engineering**
 
-![GPT-4 / OpenAI](https://img.shields.io/badge/GPT--4%20%2F%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E40C9?style=for-the-badge) ![Function Calling](https://img.shields.io/badge/Function%20Calling-6E40C9?style=for-the-badge) ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-6E40C9?style=for-the-badge) ![Guardrails](https://img.shields.io/badge/Guardrails-6E40C9?style=for-the-badge) ![Hallucination Mitigation](https://img.shields.io/badge/Hallucination%20Mitigation-6E40C9?style=for-the-badge) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-6E40C9?style=for-the-badge) ![Reranking](https://img.shields.io/badge/Reranking-6E40C9?style=for-the-badge) ![Chunking Strategies](https://img.shields.io/badge/Chunking%20Strategies-6E40C9?style=for-the-badge) ![Context Optimization](https://img.shields.io/badge/Context%20Window%20Optimization-6E40C9?style=for-the-badge)
+![GPT-4 / OpenAI](https://img.shields.io/badge/GPT--4%20%2F%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E40C9?style=for-the-badge) ![Function Calling](https://img.shields.io/badge/Function%20Calling-6E40C9?style=for-the-badge) ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-6E40C9?style=for-the-badge) ![Guardrails](https://img.shields.io/badge/Guardrails-6E40C9?style=for-the-badge) ![Hallucination Mitigation](https://img.shields.io/badge/Hallucination%20Mitigation-6E40C9?style=for-the-badge) ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-6E40C9?style=for-the-badge) ![Reranking](https://img.shields.io/badge/Reranking-6E40C9?style=for-the-badge)
 
 **Agentic AI**
 
@@ -72,10 +72,7 @@
 
 ### 📜 Certifications
 
-- ☁️ AWS Certified Machine Learning Engineer (Associate)
-- 🐍 Introduction to Programming Using Python
-- 🐼 Pandas and Data Cleaning
-- 🤖 Intro to Machine Learning
+- ☁️ AWS Certified Machine Learning Engineer – Associate
 
 ### 💼 Featured Projects
 
